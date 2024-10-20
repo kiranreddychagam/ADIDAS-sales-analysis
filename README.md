@@ -4,6 +4,23 @@
 
 This project involves analyzing Adidas sales data across the USA and visualizing key metrics using **Power BI**. The dashboard provides insights into total sales, operating profit, units sold, price per unit, and operating margin, while also breaking down sales by time, region, state, product, and retailer.
 
+### Dataset Information
+
+The dataset used for this analysis contains the following 13 columns:
+1. Retailer
+2. Retailer ID
+3. Invoice Date
+4. Region
+5. State
+6. City
+7. Product
+8. Price per unit
+9. Units sold
+10. Total Sales
+11. Operating Profit
+12. Operating Margin
+13. Sales Method
+
 ### Key Features
 
 - **Key Point Indicators (KPIs)**: 
@@ -55,3 +72,8 @@ This project involves analyzing Adidas sales data across the USA and visualizing
 ## Conclusion
 
 This project showcases the ability to analyze and visualize key business metrics using **Power BI**. The dashboard provides a comprehensive view of Adidas’s sales performance in the USA, helping business stakeholders understand sales trends, regional performance, and product/retailer effectiveness.
+
+
+
+
+
